@@ -1,3 +1,4 @@
 {
-    "codetour.showMarkers": false
+    "codetour.showMarkers": false,
+    "cmake.configureOnOpen": true
 }
